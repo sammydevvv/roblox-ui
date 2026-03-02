@@ -229,7 +229,7 @@ do
                     Button3 = Color3.fromRGB(35, 35, 35);
                     Button4 = Color3.fromRGB(40, 40, 40);
                     
-                    Stroke = Color3.fromRGB(34, 34, 34);
+                    Stroke = Color3.fromRGB(5,5,5);
                     StrokeHover = Color3.fromRGB(89, 49, 150);
                     
                     Inset1 = Color3.fromRGB(5, 5, 5);
