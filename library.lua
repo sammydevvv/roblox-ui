@@ -232,9 +232,9 @@ do
                     Stroke = Color3.fromRGB(0,0,0);
                     StrokeHover = Color3.fromRGB(0,0,0);
                     
-                    Inset1 = Color3.fromRGB(5, 5, 5);
-                    Inset2 = Color3.fromRGB(0, 0, 0);
-                    Inset3 = Color3.fromRGB(5, 5, 5);
+                    Inset1 = Color3.fromRGB(0,0,0);
+                    Inset2 = Color3.fromRGB(0,0,0);
+                    Inset3 = Color3.fromRGB(0,0,0);
                     
                     TextPrimary = Color3.fromRGB(255, 255, 255);
                     TextStroke = Color3.fromRGB(0, 0, 0);
