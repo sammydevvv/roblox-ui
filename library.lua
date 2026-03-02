@@ -220,17 +220,17 @@ do
                     Primary = Color3.fromRGB(134, 53, 255);
                     Secondary = Color3.fromRGB(211, 53, 255);
                     
-                    Window1 = Color3.fromRGB(5,5,5);
-                    Window2 = Color3.fromRGB(5,5,5);
-                    Window3 = Color3.fromRGB(5,5,5);
+                    Window1 = Color3.fromRGB(0,0,0);
+                    Window2 = Color3.fromRGB(0,0,0);
+                    Window3 = Color3.fromRGB(0,0,0);
                     
-                    Button1 = Color3.fromRGB(5,5,5);
-                    Button2 = Color3.fromRGB(5,5,5);
-                    Button3 = Color3.fromRGB(5,5,5);
-                    Button4 = Color3.fromRGB(5,5,5);
+                    Button1 = Color3.fromRGB(0,0,0);
+                    Button2 = Color3.fromRGB(0,0,0);
+                    Button3 = Color3.fromRGB(0,0,0);
+                    Button4 = Color3.fromRGB(0,0,0);
                     
-                    Stroke = Color3.fromRGB(5,5,5);
-                    StrokeHover = Color3.fromRGB(5,5,5);
+                    Stroke = Color3.fromRGB(0,0,0);
+                    StrokeHover = Color3.fromRGB(0,0,0);
                     
                     Inset1 = Color3.fromRGB(5, 5, 5);
                     Inset2 = Color3.fromRGB(0, 0, 0);
