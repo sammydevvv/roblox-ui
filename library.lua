@@ -220,9 +220,9 @@ do
                     Primary = Color3.fromRGB(134, 53, 255);
                     Secondary = Color3.fromRGB(211, 53, 255);
                     
-                    Window1 = Color3.fromRGB(20, 20, 20);
-                    Window2 = Color3.fromRGB(10, 10, 10);
-                    Window3 = Color3.fromRGB(15, 15, 15);
+                    Window1 = Color3.fromRGB(5,5,5);
+                    Window2 = Color3.fromRGB(5,5,5);
+                    Window3 = Color3.fromRGB(5,5,5);
                     
                     Button1 = Color3.fromRGB(15, 15, 15);
                     Button2 = Color3.fromRGB(20, 20, 20);
