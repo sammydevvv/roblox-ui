@@ -224,13 +224,13 @@ do
                     Window2 = Color3.fromRGB(5,5,5);
                     Window3 = Color3.fromRGB(5,5,5);
                     
-                    Button1 = Color3.fromRGB(15, 15, 15);
-                    Button2 = Color3.fromRGB(20, 20, 20);
-                    Button3 = Color3.fromRGB(35, 35, 35);
-                    Button4 = Color3.fromRGB(40, 40, 40);
+                    Button1 = Color3.fromRGB(5,5,5);
+                    Button2 = Color3.fromRGB(5,5,5);
+                    Button3 = Color3.fromRGB(5,5,5);
+                    Button4 = Color3.fromRGB(5,5,5);
                     
                     Stroke = Color3.fromRGB(5,5,5);
-                    StrokeHover = Color3.fromRGB(89, 49, 150);
+                    StrokeHover = Color3.fromRGB(5,5,5);
                     
                     Inset1 = Color3.fromRGB(5, 5, 5);
                     Inset2 = Color3.fromRGB(0, 0, 0);
