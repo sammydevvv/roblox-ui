@@ -5242,7 +5242,6 @@ do
     
     -- Unfinished
     -- DROPDOWN OPTION
-    --[[
     do 
         local dropdownOption = {} do 
             dropdownOption.__index = dropdownOption 
@@ -5498,11 +5497,10 @@ do
         end
         -- add class
         elemClasses.dropdownOption = dropdownOption
-    end]]
+    end
 
     -- Unfinished
     -- DROPDOWN
-    --[[
     do 
         local dropdown = {} do 
             dropdown.__index = dropdown 
@@ -5830,7 +5828,7 @@ do
         -- add class
         elemClasses.dropdown = dropdown
     end    
-    ]]
+
 
     -- SLIDER
     do 
