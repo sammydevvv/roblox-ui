@@ -6578,22 +6578,6 @@ do
                             fade.Parent = titleBar
                         end
                         
-                        
-                        local icon = Instance.new('ImageLabel') do 
-                            icon.BackgroundTransparency = 1
-                            icon.BorderSizePixel = 0
-                            icon.Image = 'rbxassetid://9865915364'
-                            icon.ImageColor3 = theme.Primary
-                            icon.ImageTransparency = 0
-                            icon.Name = '#icon'
-                            icon.Position = UDim2.fromOffset(2, 2)
-                            icon.Size = UDim2.fromOffset(22, 22)
-                            icon.Visible = true
-                            icon.ZIndex = 3002
-                            
-                            icon.Parent = titleBar
-                        end
-                        
                         local title = Instance.new('TextLabel') do 
                             title.BackgroundTransparency = 1
                             title.BorderSizePixel = 0
